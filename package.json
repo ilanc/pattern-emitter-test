@@ -1,0 +1,11 @@
+{
+  "name": "pattern-emitter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "ilan@spikedata.co.za",
+  "license": "ISC",
+  "dependencies": {
+    "pattern-emitter": "1.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+package-lock.json
+dist/*
+!dist/app.js
+!dist/rsync-exclude.txt
+node_modules/
+uploads/
+test/*
+!test/data
+!test/*.js
+.DS_Store
+*.log
